@@ -9,14 +9,9 @@
             if(str[i] == " "){
                 newWord = newWord + str[i+1].toUpperCase();
                 i++;
+            }     
             }
-            // console.log(` on Space at index #${i}`)
-               
-                  
-            }
-        
-
-            console.log(newWord);
+             console.log(newWord);
         return str;
     }
 
