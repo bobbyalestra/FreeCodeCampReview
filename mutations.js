@@ -5,7 +5,7 @@
 //have the second elemtent equal the call back of index zero to all lower case
 // for loop to cycle through rhe length of element one
 // if element1 has and element to dont have a matching index return false
-// if true return
+// if true return the new array
 
 
 function mutation(arr) {
